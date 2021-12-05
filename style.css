@@ -32,6 +32,7 @@ nav {
 
 .left-side ul li a {
     text-decoration: none;
+    color: black;
 }
 
 .right-side {
@@ -56,6 +57,12 @@ nav {
 
 .right-side ul li a {
     text-decoration: none;
+    color: black;
+}
+
+.right-side ul li img {
+    border: 4px solid black;
+    border-radius: 50%;
 }
 
 .content-product {
@@ -74,8 +81,11 @@ nav {
 
 .content-container img {
     width: 100px;
-    margin-left: 85px;
+    margin-left: 70px;
     margin-bottom: 20px;
+    border: 5px solid black;
+    border-radius: 50px;
+    padding: 20px;
 }
 
 .content1 {
