@@ -128,7 +128,14 @@ nav {
     height: 200px; 
     justify-content: center;
     background: transparent;
-    
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    background:rgb(255, 203, 179);
+    height: 6vh;
+    border-top: 2px solid black;
 }
 
 
